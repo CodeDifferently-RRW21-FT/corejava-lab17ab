@@ -1,4 +1,4 @@
-package lab17.part_a.examples;
+package lab17.part_b.examples;
 
 public class Example02_MethodWithParameters {
     public static void main(String[] args) {
