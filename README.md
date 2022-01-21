@@ -1,1 +1,142 @@
-# corejava-lab17
+# Return Ready Lab 17
+
+* Part A - Foundations 7.3
+* Part B - Foundations 7.4
+* Part C - Instructor Challenge
+
+## Part A
+
+### Example and Activity 01
+
+#### Step 01
+
+In the package `lab17.part_a.examples` look at the file `Example01_EmptyMethodExample` and write comments for each line of code. When complete review with instructor.
+
+#### Step 02
+
+In the package `labs.lab17.part_a.activity` complete the `Activity01_Method` per the following:
+
+        Create a program with a method (outside of the main method) 
+        that asks two questions, saves each user response, and eventually prints it back out to the user.
+        Call the question method inside of the main method.
+
+Your program is working correctly, if when run, the following is the output (Abe first name Lincoln last name):
+```
+What's your first name?
+Gio
+And how old are you Gio?
+28
+Gio I see that you're 28 years old.
+
+```
+
+> Use Example01_EmptyMethodExample for reference.
+
+### Example and Activity 02
+
+#### Step 01
+
+In the package `lab14.part_a.examples` look at the file `Example02_LoopPrint` and write comments for each line of code. When complete review with instructor.
+
+#### Step 02
+
+In the package `labs.lab14.part_a.activity` complete the `Activity02_FixThisLoop` per the following:
+
+        Create a program that has two different parameterized methods - outside of the main method
+        One method should perform multiplication on two numbers and the other method should perform division on two numbers 
+        - both should return the correct mathematical result
+        Call each method inside of the main method and print out the results
+
+Your program is working correctly, if when run, the following is the output:
+```
+multiplication result: 10
+division result: 2.5
+```
+
+> Use Example02_MethodWithParameters for reference.
+
+
+### Example and Activity 03
+
+#### Step 01
+
+In the package `lab17.part_a.examples` look at the file `Example03_OverloadingMethod` and write comments for each line of code. When complete review with instructor.
+
+#### Step 02
+
+In the package `labs.lab17.part_a.activity` complete the `Activity03_MethodOverload` per the following:
+
+    Create a program that has two methods outside of the main method
+    The first method should take in a character and a number and then print out a sentence containing each
+    Overload that method so that it takes in a number and then a character - print out that sentence containing each
+    Call both methods inside of the main method to see the result
+
+Your program is working correctly, if when run, the following is the output:
+```
+First I print the character a and then the number 2
+First I print the number y and then the character 1
+```
+
+> Use Example03_MethodOverload for reference.
+
+## Part B
+
+### Example and Activity 01
+
+#### Step 01
+
+In the package `lab14.part_b.examples` look at the file `Example01_DoWhileLoopDemo` and write comments for each line of code. When complete review with instructor.
+
+#### Step 02
+
+In the package `labs.lab14.part_b.activity` complete the `Activity01_DoWhileLoop` per the following:
+
+    Create a program that has an array of integers with five unique values
+    Utilize a do/while loop to print out each of the unique elements of the array
+
+Your program is working correctly, if when run, the following is the output:
+```
+43
+55
+68
+91
+105
+```
+
+> Use Example01_DoWhileLoopDemo for reference.
+
+### Example and Activity 02
+
+#### Step 01
+
+In the package `lab14.part_b.examples` look at the file `Example02_WhileLoopDemo` and write comments for each line of code. When complete review with instructor.
+
+#### Step 02
+
+In the package `labs.lab11.part_b.activity` complete the `Activity02_WhileLoop` per the following:
+
+    Create a program that loops through numbers - beginning at 1 and up to 1,000
+    As the program loops through each number, it should print out all of the even values
+    Be sure to use a while loop to perform the loop and printing
+    HINT: Remember to use a certain operator to perform the logical check for whether or not the number is even
+
+Your program is working correctly, if when run, the following is the output:
+```
+2 is even
+4 is even
+6 is even
+8 is even
+10 is even
+...
+...
+...
+992 is even
+994 is even
+996 is even
+998 is even
+1000 is even
+```
+
+> Use Example02_WhileLoopDemo for reference.
+
+## Part C
