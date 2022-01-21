@@ -29,7 +29,7 @@ The name is Francis
 
 ```
 
-> Use Example01_EmptyMethodExample for reference.
+> Use Example01_ConstructorExample for reference.
 
 ## Part B
 
